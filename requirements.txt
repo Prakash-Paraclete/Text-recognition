@@ -1,0 +1,7 @@
+albumentations
+Flask
+gunicorn
+opencv-python
+easyocr
+torch==1.5.0
+
